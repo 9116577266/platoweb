@@ -106,7 +106,7 @@
     .background-img{
         height: 80vh;
         width: 98.8vw;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.693),rgba(0, 0, 0, 0.693)),url(../assets/img/hero-bg.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.693),rgba(0, 0, 0, 0.693)),url(../platoweb/assets/img/hero-bg.jpg);
     background-repeat: no-repeat;
     background-size: 98.9vw 100vh;
     background-attachment: fixed;
