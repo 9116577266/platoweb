@@ -5,3 +5,13 @@ out.addEventListener("click", () =>{
 
   sagar.classList.toggle("google")
 })
+
+
+ function fixed () {
+
+  if(top == 0 + "px"){
+    document.querySelector(".sickycont").style.position = "fixed";
+ }
+}
+
+fixed();
